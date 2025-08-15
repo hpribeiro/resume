@@ -28,7 +28,7 @@
     {
       "name": "Insight Global (Client: McGraw Hill)",
       "position": "Senior Software Engineer",
-      "startDate": "2024-07",
+      "startDate": "2024-07-01",
       "summary": "Contributing to McGraw Hill’s digital learning platform with Angular micro frontends and Spring Boot microservices in a distributed, multicultural team.",
       "highlights": [
         "Built micro‑frontend modules (Angular 17+, Bootstrap 5) end‑to‑end with continuous UI/UX improvements",
@@ -54,8 +54,8 @@
     {
       "name": "BRQ Digital Solutions",
       "position": "Senior Software Engineer",
-      "startDate": "2022-06",
-      "endDate": "2024-07",
+      "startDate": "2022-06-01",
+      "endDate": "2024-07-01",
       "summary": "Worked with a major US railway client, collaborating daily with international teams in English.",
       "highlights": [
         "Built micro frontends and features from scratch; delivered fixes across other teams’ modules",
@@ -74,27 +74,21 @@
     {
       "name": "AgileThought (Client: Banco Santander)",
       "position": "Frontend Developer",
-      "startDate": "2021-10",
-      "endDate": "2022-05",
+      "startDate": "2021-10-01",
+      "endDate": "2022-05-01",
       "summary": "Debt renegotiation project for Banco Santander.",
       "highlights": [
         "Implemented new features and bug fixes in an existing Angular codebase",
         "Migrated legacy code to newer Angular versions",
         "Contributed to a new frontend with updated visual patterns and a design system"
       ],
-      "keywords": [
-        "Angular",
-        "TypeScript",
-        "Design Systems",
-        "Jenkins",
-        "AWS"
-      ]
+      "keywords": ["Angular", "TypeScript", "Design Systems", "Jenkins", "AWS"]
     },
     {
       "name": "Banco BV / ResourceIT",
       "position": "Fullstack Developer",
-      "startDate": "2019-07",
-      "endDate": "2021-06",
+      "startDate": "2019-07-01",
+      "endDate": "2021-06-01",
       "summary": "Automotive insurance marketplace integrated into the vehicle financing flow.",
       "highlights": [
         "Delivered features in a complex legacy AngularJS frontend; established coding/deployment guidelines",
@@ -116,8 +110,8 @@
     {
       "name": "Olho no Carro",
       "position": "Fullstack Developer",
-      "startDate": "2019-01",
-      "endDate": "2019-06",
+      "startDate": "2019-01-01",
+      "endDate": "2019-06-01",
       "summary": "Vehicle search features for consumers and enterprises; reporting module development.",
       "highlights": [
         "Built and maintained Angular/NodeJS systems for internal parameterization and customer search",
@@ -136,8 +130,8 @@
     {
       "name": "INATEL",
       "position": "Software Development Intern",
-      "startDate": "2016-07",
-      "endDate": "2018-12",
+      "startDate": "2016-07-01",
+      "endDate": "2018-12-01",
       "summary": "Two client projects focusing on pixel-perfect UI and REST API backends; helped shape process and code review.",
       "highlights": [
         "VMI (Security industry; widely used in Brazilian airports): Java/Spring Boot backend, Angular UI, PostgreSQL",
@@ -160,8 +154,8 @@
       "institution": "INATEL",
       "area": "Computer Engineering",
       "studyType": "Bachelor's degree",
-      "startDate": "2014-01",
-      "endDate": "2018-12"
+      "startDate": "2014-01-01",
+      "endDate": "2018-12-01"
     }
   ],
   "skills": [
@@ -220,10 +214,7 @@
     {
       "name": "AI Tooling",
       "level": "Proficient",
-      "keywords": [
-        "GitHub Copilot",
-        "LLMs"
-      ]
+      "keywords": ["GitHub Copilot", "LLMs"]
     }
   ],
   "languages": [
@@ -237,43 +228,30 @@
       "name": "Thyro Map",
       "description": "Post‑thyroid exam report visualization tool; the doctor marks nodules on an image. Runs fully client‑side.",
       "url": "https://hpribeiro.github.io/thyro-map/#/home",
-      "keywords": [
-        "VueJS",
-        "Frontend",
-        "Healthcare"
-      ]
+      "keywords": ["VueJS", "Frontend", "Healthcare"]
     },
     {
       "name": "Locker (Rock in Rio)",
       "description": "Lost and found management for event participants using authorized totems.",
-      "keywords": [
-        "Angular",
-        "NodeJS",
-        "Events",
-        "Kiosks"
-      ]
+      "keywords": ["Angular", "NodeJS", "Events", "Kiosks"]
     },
     {
       "name": "Administration of Minors (Rock in Rio)",
       "description": "Registered minors search/management at event totems; supported operations during the festival.",
-      "keywords": [
-        "Angular",
-        "NodeJS",
-        "Events",
-        "Kiosks"
-      ]
+      "keywords": ["Angular", "NodeJS", "Events", "Kiosks"]
     }
   ],
   "certificates": [
     {
       "name": "Alura Web Foundations (HTML/CSS/Linux/Python)",
       "issuer": "Alura",
-      "date": "2016-01"
+      "date": "2016-01-01"
     }
   ],
   "meta": {
     "canonical": "https://jsonresume.org/",
     "version": "v1.0.0",
-    "lastModified": "2025-08-15T14:52:51Z"
+    "lastModified": "2025-08-15T15:18:07Z",
+    "theme": "macchiato"
   }
 }
